@@ -1,0 +1,191 @@
+{
+  "provenance": {
+    "geometry": "SYNTHETIC jittered street grid in study bbox; DR-01..DR-05 and hospital gateways pinned to landmark coordinates",
+    "telemetry": "SIMULATED (seeded scenario generator)",
+    "warning": "Scores measure recovery of the simulator's hydraulic rule, not real-world forecast skill."
+  },
+  "dataset": {
+    "n_samples": 15000,
+    "n_scenarios": 60,
+    "train_scenarios": 48,
+    "test_scenarios": 12,
+    "test_scenario_ids": [
+      1,
+      2,
+      13,
+      15,
+      20,
+      24,
+      26,
+      30,
+      32,
+      34,
+      46,
+      56
+    ],
+    "n_train": 12000,
+    "n_test": 3000,
+    "split": "strictly by scenario_id",
+    "class_balance_all": {
+      "Normal": 12515,
+      "Watch": 1391,
+      "Severe": 494,
+      "Critical": 600
+    }
+  },
+  "labels": {
+    "0": "Normal",
+    "1": "Watch",
+    "2": "Severe",
+    "3": "Critical"
+  },
+  "label_rule_depth_m": {
+    "watch_from": 0.1,
+    "severe_from": 0.3,
+    "critical_from": 0.6
+  },
+  "baseline_rule_mm_hr": {
+    "watch_from": 65.0,
+    "severe_from": 105.0,
+    "critical_from": 120.0,
+    "note": "cut-offs tuned on training scenarios only (fair baseline); untuned defaults were (15.0, 40.0, 65.0)"
+  },
+  "random_forest": {
+    "macro_f1": 0.9455,
+    "accuracy": 0.9753,
+    "per_class_f1": {
+      "Normal": 0.9879,
+      "Watch": 0.861,
+      "Severe": 0.9417,
+      "Critical": 0.9916
+    },
+    "per_class_precision": {
+      "Normal": 0.9896,
+      "Watch": 0.8577,
+      "Severe": 0.913,
+      "Critical": 0.9916
+    },
+    "per_class_recall": {
+      "Normal": 0.9861,
+      "Watch": 0.8643,
+      "Severe": 0.9722,
+      "Critical": 0.9916
+    },
+    "severe_or_critical_recall": 0.9912,
+    "severe_or_critical_precision": 0.9615,
+    "confusion_matrix": [
+      [
+        2480,
+        35,
+        0,
+        0
+      ],
+      [
+        26,
+        223,
+        9,
+        0
+      ],
+      [
+        0,
+        2,
+        105,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        118
+      ]
+    ]
+  },
+  "rainfall_threshold_baseline": {
+    "macro_f1": 0.411,
+    "accuracy": 0.829,
+    "per_class_f1": {
+      "Normal": 0.9402,
+      "Watch": 0.3276,
+      "Severe": 0.1302,
+      "Critical": 0.246
+    },
+    "per_class_precision": {
+      "Normal": 0.9432,
+      "Watch": 0.3257,
+      "Severe": 0.1308,
+      "Critical": 0.2331
+    },
+    "per_class_recall": {
+      "Normal": 0.9372,
+      "Watch": 0.3295,
+      "Severe": 0.1296,
+      "Critical": 0.2605
+    },
+    "severe_or_critical_recall": 0.4581,
+    "severe_or_critical_precision": 0.4333,
+    "confusion_matrix": [
+      [
+        2357,
+        120,
+        25,
+        13
+      ],
+      [
+        75,
+        85,
+        47,
+        51
+      ],
+      [
+        27,
+        29,
+        14,
+        38
+      ],
+      [
+        40,
+        27,
+        21,
+        31
+      ]
+    ]
+  },
+  "macro_f1_gain": 0.5345,
+  "group_kfold_macro_f1": {
+    "folds": [
+      0.9276,
+      0.9369,
+      0.9183,
+      0.9239,
+      0.9307
+    ],
+    "mean": 0.9275,
+    "std": 0.0063
+  },
+  "feature_importance": {
+    "water_level_m": 0.4839,
+    "flow_to_capacity_ratio": 0.2315,
+    "rainfall_mm_hr": 0.1266,
+    "blockage_fraction": 0.0314,
+    "sensor_age_sec": 0.0295,
+    "drain_capacity_proxy": 0.0273,
+    "relative_elevation_m": 0.0262,
+    "upstream_contributing_nodes": 0.0254,
+    "antecedent_wetness": 0.0099,
+    "slope": 0.0083
+  },
+  "features": [
+    "rainfall_mm_hr",
+    "antecedent_wetness",
+    "relative_elevation_m",
+    "slope",
+    "upstream_contributing_nodes",
+    "drain_capacity_proxy",
+    "blockage_fraction",
+    "flow_to_capacity_ratio",
+    "water_level_m",
+    "sensor_age_sec"
+  ],
+  "area": "bhubaneswar",
+  "seed": 42
+}

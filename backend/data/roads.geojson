@@ -1,0 +1,6606 @@
+{
+ "type": "FeatureCollection",
+ "name": "roads",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8131511027518,
+      20.28924768791591
+     ],
+     [
+      85.81495789442324,
+      20.28931803471566
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R000",
+    "u": 0,
+    "v": 1,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 188.8,
+    "travel_min": 0.566,
+    "relative_elevation_m": 15.751,
+    "slope": 0.00912,
+    "criticality": 0.12,
+    "linked_drain": "DR-10",
+    "u_name": "HOSPITAL: AIIMS corridor gateway (south-west)",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81495789442324,
+      20.28931803471566
+     ],
+     [
+      85.8167804978813,
+      20.28868271628469
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R001",
+    "u": 1,
+    "v": 2,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 202.9,
+    "travel_min": 0.609,
+    "relative_elevation_m": 13.635,
+    "slope": 0.01237,
+    "criticality": 0.1259,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8167804978813,
+      20.28868271628469
+     ],
+     [
+      85.81822885144422,
+      20.289237036107878
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R002",
+    "u": 2,
+    "v": 3,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 163.2,
+    "travel_min": 0.326,
+    "relative_elevation_m": 11.687,
+    "slope": 0.00849,
+    "criticality": 0.2519,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81822885144422,
+      20.289237036107878
+     ],
+     [
+      85.81956030875031,
+      20.288710921108045
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R003",
+    "u": 3,
+    "v": 4,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 150.7,
+    "travel_min": 0.452,
+    "relative_elevation_m": 10.199,
+    "slope": 0.01056,
+    "criticality": 0.1378,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81956030875031,
+      20.288710921108045
+     ],
+     [
+      85.82154141199106,
+      20.288912618802364
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R004",
+    "u": 4,
+    "v": 5,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 208.1,
+    "travel_min": 0.624,
+    "relative_elevation_m": 8.789,
+    "slope": 0.0059,
+    "criticality": 0.1438,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82154141199106,
+      20.288912618802364
+     ],
+     [
+      85.82305820929061,
+      20.289139567899802
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R005",
+    "u": 5,
+    "v": 6,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 160.3,
+    "travel_min": 0.481,
+    "relative_elevation_m": 7.627,
+    "slope": 0.00684,
+    "criticality": 0.1497,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82305820929061,
+      20.289139567899802
+     ],
+     [
+      85.82418179097742,
+      20.288972970911914
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R006",
+    "u": 6,
+    "v": 7,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 118.8,
+    "travel_min": 0.356,
+    "relative_elevation_m": 6.493,
+    "slope": 0.00987,
+    "criticality": 0.1616,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82305820929061,
+      20.289139567899802
+     ],
+     [
+      85.82278056394097,
+      20.290374645873325
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R007",
+    "u": 6,
+    "v": 18,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 139.6,
+    "travel_min": 0.279,
+    "relative_elevation_m": 7.315,
+    "slope": 0.00339,
+    "criticality": 0.24,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82418179097742,
+      20.288972970911914
+     ],
+     [
+      85.82565105380488,
+      20.28906536602299
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R008",
+    "u": 7,
+    "v": 8,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 153.8,
+    "travel_min": 0.308,
+    "relative_elevation_m": 5.067,
+    "slope": 0.01093,
+    "criticality": 0.2935,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82418179097742,
+      20.288972970911914
+     ],
+     [
+      85.82453585119575,
+      20.29045525354788
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R009",
+    "u": 7,
+    "v": 19,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 168.0,
+    "travel_min": 0.336,
+    "relative_elevation_m": 5.919,
+    "slope": 0.00015,
+    "criticality": 0.24,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82565105380488,
+      20.28906536602299
+     ],
+     [
+      85.82770533151928,
+      20.28929229790739
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R010",
+    "u": 8,
+    "v": 9,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 216.0,
+    "travel_min": 0.432,
+    "relative_elevation_m": 3.217,
+    "slope": 0.00936,
+    "criticality": 0.3232,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82565105380488,
+      20.28906536602299
+     ],
+     [
+      85.82626614255685,
+      20.290629988483687
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R011",
+    "u": 8,
+    "v": 20,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 184.5,
+    "travel_min": 0.369,
+    "relative_elevation_m": 4.35,
+    "slope": 0.00133,
+    "criticality": 0.24,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82770533151928,
+      20.28929229790739
+     ],
+     [
+      85.82908362077448,
+      20.289234499588428
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R012",
+    "u": 9,
+    "v": 10,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 144.1,
+    "travel_min": 0.288,
+    "relative_elevation_m": 1.673,
+    "slope": 0.0074,
+    "criticality": 0.3291,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82908362077448,
+      20.289234499588428
+     ],
+     [
+      85.83111449689706,
+      20.289411202358053
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R013",
+    "u": 10,
+    "v": 11,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 212.9,
+    "travel_min": 0.639,
+    "relative_elevation_m": 0.57,
+    "slope": 0.00536,
+    "criticality": 0.215,
+    "linked_drain": "DR-11",
+    "u_name": "",
+    "v_name": "HOSPITAL: Capital Hospital corridor gateway (south-east)",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83111449689706,
+      20.289411202358053
+     ],
+     [
+      85.83063066248314,
+      20.290588704252794
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R014",
+    "u": 11,
+    "v": 23,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 139.7,
+    "travel_min": 0.419,
+    "relative_elevation_m": 0.303,
+    "slope": 0.00433,
+    "criticality": 0.12,
+    "linked_drain": "DR-11",
+    "u_name": "HOSPITAL: Capital Hospital corridor gateway (south-east)",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81295571096628,
+      20.290913589839793
+     ],
+     [
+      85.81291180198689,
+      20.292496118485527
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R015",
+    "u": 12,
+    "v": 24,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 175.0,
+    "travel_min": 0.35,
+    "relative_elevation_m": 17.611,
+    "slope": 0.00368,
+    "criticality": 0.2578,
+    "linked_drain": "DR-10",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81443504301262,
+      20.290654563678654
+     ],
+     [
+      85.81295571096628,
+      20.290913589839793
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R016",
+    "u": 13,
+    "v": 12,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 157.1,
+    "travel_min": 0.314,
+    "relative_elevation_m": 16.494,
+    "slope": 0.01011,
+    "criticality": 0.2519,
+    "linked_drain": "DR-10",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81654643916258,
+      20.29039489837785
+     ],
+     [
+      85.81443504301262,
+      20.290654563678654
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R017",
+    "u": 14,
+    "v": 13,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 222.3,
+    "travel_min": 0.667,
+    "relative_elevation_m": 14.627,
+    "slope": 0.00966,
+    "criticality": 0.1259,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81837400778595,
+      20.290885646769578
+     ],
+     [
+      85.81654643916258,
+      20.29039489837785
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R018",
+    "u": 15,
+    "v": 14,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 198.4,
+    "travel_min": 0.397,
+    "relative_elevation_m": 12.853,
+    "slope": 0.00706,
+    "criticality": 0.24,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81837400778595,
+      20.290885646769578
+     ],
+     [
+      85.81822458322482,
+      20.29251495967024
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R019",
+    "u": 15,
+    "v": 27,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 180.8,
+    "travel_min": 0.362,
+    "relative_elevation_m": 12.794,
+    "slope": 0.00709,
+    "criticality": 0.2459,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81949636776483,
+      20.290537463742098
+     ],
+     [
+      85.81837400778595,
+      20.290885646769578
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R020",
+    "u": 16,
+    "v": 15,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 123.4,
+    "travel_min": 0.37,
+    "relative_elevation_m": 11.465,
+    "slope": 0.01116,
+    "criticality": 0.12,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81949636776483,
+      20.290537463742098
+     ],
+     [
+      85.81965499295676,
+      20.292310298889003
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R021",
+    "u": 16,
+    "v": 28,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 196.7,
+    "travel_min": 0.393,
+    "relative_elevation_m": 11.314,
+    "slope": 0.00546,
+    "criticality": 0.2459,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82095157708726,
+      20.290656919718707
+     ],
+     [
+      85.81949636776483,
+      20.290537463742098
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R022",
+    "u": 17,
+    "v": 16,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 152.5,
+    "travel_min": 0.305,
+    "relative_elevation_m": 10.091,
+    "slope": 0.00899,
+    "criticality": 0.24,
+    "linked_drain": "DR-19",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82095157708726,
+      20.290656919718707
+     ],
+     [
+      85.82089162405882,
+      20.292045075727334
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R023",
+    "u": 17,
+    "v": 29,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 153.6,
+    "travel_min": 0.307,
+    "relative_elevation_m": 9.782,
+    "slope": 0.00491,
+    "criticality": 0.2459,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82278056394097,
+      20.290374645873325
+     ],
+     [
+      85.82095157708726,
+      20.290656919718707
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R024",
+    "u": 18,
+    "v": 17,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 193.5,
+    "travel_min": 0.387,
+    "relative_elevation_m": 8.479,
+    "slope": 0.00958,
+    "criticality": 0.24,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82278056394097,
+      20.290374645873325
+     ],
+     [
+      85.82305820929061,
+      20.289139567899802
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R025",
+    "u": 18,
+    "v": 6,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 139.6,
+    "travel_min": 0.279,
+    "relative_elevation_m": 7.315,
+    "slope": 0.00339,
+    "criticality": 0.2459,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82453585119575,
+      20.29045525354788
+     ],
+     [
+      85.82278056394097,
+      20.290374645873325
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R026",
+    "u": 19,
+    "v": 18,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 183.5,
+    "travel_min": 0.55,
+    "relative_elevation_m": 6.742,
+    "slope": 0.00883,
+    "criticality": 0.12,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82453585119575,
+      20.29045525354788
+     ],
+     [
+      85.82418179097742,
+      20.288972970911914
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R027",
+    "u": 19,
+    "v": 7,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 168.0,
+    "travel_min": 0.336,
+    "relative_elevation_m": 5.919,
+    "slope": 0.00015,
+    "criticality": 0.2459,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82626614255685,
+      20.290629988483687
+     ],
+     [
+      85.82453585119575,
+      20.29045525354788
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R028",
+    "u": 20,
+    "v": 19,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 181.7,
+    "travel_min": 0.545,
+    "relative_elevation_m": 5.203,
+    "slope": 0.00803,
+    "criticality": 0.12,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82626614255685,
+      20.290629988483687
+     ],
+     [
+      85.82565105380488,
+      20.28906536602299
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R029",
+    "u": 20,
+    "v": 8,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 184.5,
+    "travel_min": 0.369,
+    "relative_elevation_m": 4.35,
+    "slope": 0.00133,
+    "criticality": 0.2638,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8274498933131,
+      20.290848664773666
+     ],
+     [
+      85.82626614255685,
+      20.290629988483687
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R030",
+    "u": 21,
+    "v": 20,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 125.9,
+    "travel_min": 0.252,
+    "relative_elevation_m": 4.043,
+    "slope": 0.00683,
+    "criticality": 0.2578,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82944381148599,
+      20.29095836703494
+     ],
+     [
+      85.8274498933131,
+      20.290848664773666
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R031",
+    "u": 22,
+    "v": 21,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 208.5,
+    "travel_min": 0.417,
+    "relative_elevation_m": 2.728,
+    "slope": 0.00849,
+    "criticality": 0.2519,
+    "linked_drain": "DR-06",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83063066248314,
+      20.290588704252794
+     ],
+     [
+      85.82944381148599,
+      20.29095836703494
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R032",
+    "u": 23,
+    "v": 22,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 130.5,
+    "travel_min": 0.391,
+    "relative_elevation_m": 1.224,
+    "slope": 0.00949,
+    "criticality": 0.1259,
+    "linked_drain": "DR-11",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81291180198689,
+      20.292496118485527
+     ],
+     [
+      85.81440588981579,
+      20.29209503481717
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R033",
+    "u": 24,
+    "v": 25,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 162.2,
+    "travel_min": 0.487,
+    "relative_elevation_m": 17.002,
+    "slope": 0.01148,
+    "criticality": 0.12,
+    "linked_drain": "DR-10",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81291180198689,
+      20.292496118485527
+     ],
+     [
+      85.81298715158869,
+      20.294300383887563
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R034",
+    "u": 24,
+    "v": 36,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 199.7,
+    "travel_min": 0.399,
+    "relative_elevation_m": 18.408,
+    "slope": 0.00476,
+    "criticality": 0.2638,
+    "linked_drain": "DR-23",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81440588981579,
+      20.29209503481717
+     ],
+     [
+      85.8168,
+      20.2915
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R035",
+    "u": 25,
+    "v": 26,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 258.5,
+    "travel_min": 0.517,
+    "relative_elevation_m": 14.999,
+    "slope": 0.0083,
+    "criticality": 0.2459,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "DR-02: CRP Square Main Junction Inlet",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8168,
+      20.2915
+     ],
+     [
+      85.81822458322482,
+      20.29251495967024
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R036",
+    "u": 26,
+    "v": 27,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 186.3,
+    "travel_min": 0.373,
+    "relative_elevation_m": 13.68,
+    "slope": 0.00263,
+    "criticality": 0.2519,
+    "linked_drain": "DR-02",
+    "u_name": "DR-02: CRP Square Main Junction Inlet",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81822458322482,
+      20.29251495967024
+     ],
+     [
+      85.81965499295676,
+      20.292310298889003
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R037",
+    "u": 27,
+    "v": 28,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 151.1,
+    "travel_min": 0.302,
+    "relative_elevation_m": 12.643,
+    "slope": 0.01049,
+    "criticality": 0.2638,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81822458322482,
+      20.29251495967024
+     ],
+     [
+      85.81837400778595,
+      20.290885646769578
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R038",
+    "u": 27,
+    "v": 15,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 180.8,
+    "travel_min": 0.362,
+    "relative_elevation_m": 12.794,
+    "slope": 0.00709,
+    "criticality": 0.24,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81965499295676,
+      20.292310298889003
+     ],
+     [
+      85.82089162405882,
+      20.292045075727334
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R039",
+    "u": 28,
+    "v": 29,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 132.4,
+    "travel_min": 0.265,
+    "relative_elevation_m": 11.005,
+    "slope": 0.01277,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81965499295676,
+      20.292310298889003
+     ],
+     [
+      85.81949636776483,
+      20.290537463742098
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R040",
+    "u": 28,
+    "v": 16,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 196.7,
+    "travel_min": 0.393,
+    "relative_elevation_m": 11.314,
+    "slope": 0.00546,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81965499295676,
+      20.292310298889003
+     ],
+     [
+      85.81952510948915,
+      20.29414322947574
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R041",
+    "u": 28,
+    "v": 40,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 203.1,
+    "travel_min": 0.406,
+    "relative_elevation_m": 12.318,
+    "slope": 0.0046,
+    "criticality": 0.2756,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82089162405882,
+      20.292045075727334
+     ],
+     [
+      85.8227768769649,
+      20.292484406017135
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R042",
+    "u": 29,
+    "v": 30,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 202.7,
+    "travel_min": 0.405,
+    "relative_elevation_m": 9.108,
+    "slope": 0.01037,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82089162405882,
+      20.292045075727334
+     ],
+     [
+      85.82093357833591,
+      20.294267652497478
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R043",
+    "u": 29,
+    "v": 41,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 245.8,
+    "travel_min": 0.492,
+    "relative_elevation_m": 10.672,
+    "slope": 0.00417,
+    "criticality": 0.2519,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82089162405882,
+      20.292045075727334
+     ],
+     [
+      85.82095157708726,
+      20.290656919718707
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R044",
+    "u": 29,
+    "v": 17,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 153.6,
+    "travel_min": 0.307,
+    "relative_elevation_m": 9.782,
+    "slope": 0.00491,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8227768769649,
+      20.292484406017135
+     ],
+     [
+      85.82461199908593,
+      20.292398662897387
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R045",
+    "u": 30,
+    "v": 31,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 191.8,
+    "travel_min": 0.384,
+    "relative_elevation_m": 7.275,
+    "slope": 0.00815,
+    "criticality": 0.24,
+    "linked_drain": "DR-14",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8227768769649,
+      20.292484406017135
+     ],
+     [
+      85.82247203828861,
+      20.29360998736745
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R046",
+    "u": 30,
+    "v": 42,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 128.5,
+    "travel_min": 0.257,
+    "relative_elevation_m": 8.515,
+    "slope": 0.00712,
+    "criticality": 0.2459,
+    "linked_drain": "DR-14",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82461199908593,
+      20.292398662897387
+     ],
+     [
+      85.82604286352051,
+      20.292456410337067
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R047",
+    "u": 31,
+    "v": 32,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 149.5,
+    "travel_min": 0.299,
+    "relative_elevation_m": 6.086,
+    "slope": 0.00545,
+    "criticality": 0.2459,
+    "linked_drain": "DR-22",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82604286352051,
+      20.292456410337067
+     ],
+     [
+      85.82744316007845,
+      20.292393652173597
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R048",
+    "u": 32,
+    "v": 33,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 146.4,
+    "travel_min": 0.293,
+    "relative_elevation_m": 5.175,
+    "slope": 0.00689,
+    "criticality": 0.24,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82604286352051,
+      20.292456410337067
+     ],
+     [
+      85.82600083582008,
+      20.293725145878575
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R049",
+    "u": 32,
+    "v": 44,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 140.4,
+    "travel_min": 0.211,
+    "relative_elevation_m": 5.975,
+    "slope": 0.00421,
+    "criticality": 0.4119,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82744316007845,
+      20.292393652173597
+     ],
+     [
+      85.82914937391138,
+      20.29195450193362
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R050",
+    "u": 33,
+    "v": 34,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 184.6,
+    "travel_min": 0.554,
+    "relative_elevation_m": 3.687,
+    "slope": 0.01066,
+    "criticality": 0.12,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82744316007845,
+      20.292393652173597
+     ],
+     [
+      85.82775705630006,
+      20.293717699392033
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R051",
+    "u": 33,
+    "v": 45,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 150.0,
+    "travel_min": 0.3,
+    "relative_elevation_m": 4.806,
+    "slope": 0.00181,
+    "criticality": 0.2459,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82914937391138,
+      20.29195450193362
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R052",
+    "u": 34,
+    "v": 35,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 182.3,
+    "travel_min": 0.547,
+    "relative_elevation_m": 2.133,
+    "slope": 0.00625,
+    "criticality": 0.1259,
+    "linked_drain": "DR-05",
+    "u_name": "",
+    "v_name": "DR-05: Drainage Channel No. 4 Outfall",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8305,
+      20.293
+     ],
+     [
+      85.8309042260745,
+      20.293841701158538
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R053",
+    "u": 35,
+    "v": 47,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 102.2,
+    "travel_min": 0.204,
+    "relative_elevation_m": 1.539,
+    "slope": 0.00047,
+    "criticality": 0.2519,
+    "linked_drain": "DR-05",
+    "u_name": "DR-05: Drainage Channel No. 4 Outfall",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81298715158869,
+      20.294300383887563
+     ],
+     [
+      85.81287011993545,
+      20.295554039814107
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R054",
+    "u": 36,
+    "v": 48,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 139.2,
+    "travel_min": 0.278,
+    "relative_elevation_m": 19.389,
+    "slope": 0.00727,
+    "criticality": 0.2756,
+    "linked_drain": "DR-23",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81298715158869,
+      20.294300383887563
+     ],
+     [
+      85.81291180198689,
+      20.292496118485527
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R055",
+    "u": 36,
+    "v": 24,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 199.7,
+    "travel_min": 0.399,
+    "relative_elevation_m": 18.408,
+    "slope": 0.00476,
+    "criticality": 0.24,
+    "linked_drain": "DR-23",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81462510711361,
+      20.29363956716754
+     ],
+     [
+      85.81298715158869,
+      20.294300383887563
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R056",
+    "u": 37,
+    "v": 36,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 186.0,
+    "travel_min": 0.372,
+    "relative_elevation_m": 17.766,
+    "slope": 0.01201,
+    "criticality": 0.2459,
+    "linked_drain": "DR-23",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81652953321176,
+      20.293835120145346
+     ],
+     [
+      85.81462510711361,
+      20.29363956716754
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R057",
+    "u": 38,
+    "v": 37,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 200.0,
+    "travel_min": 0.4,
+    "relative_elevation_m": 15.975,
+    "slope": 0.00675,
+    "criticality": 0.24,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81652953321176,
+      20.293835120145346
+     ],
+     [
+      85.81655976570704,
+      20.296008464840725
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R058",
+    "u": 38,
+    "v": 50,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 240.3,
+    "travel_min": 0.481,
+    "relative_elevation_m": 15.819,
+    "slope": 0.00432,
+    "criticality": 0.3053,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81822711856728,
+      20.29405406672217
+     ],
+     [
+      85.81652953321176,
+      20.293835120145346
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R059",
+    "u": 39,
+    "v": 38,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 178.9,
+    "travel_min": 0.537,
+    "relative_elevation_m": 14.684,
+    "slope": 0.00689,
+    "criticality": 0.1794,
+    "linked_drain": "DR-02",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81952510948915,
+      20.29414322947574
+     ],
+     [
+      85.81822711856728,
+      20.29405406672217
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R060",
+    "u": 40,
+    "v": 39,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 135.9,
+    "travel_min": 0.272,
+    "relative_elevation_m": 13.426,
+    "slope": 0.00944,
+    "criticality": 0.2935,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81952510948915,
+      20.29414322947574
+     ],
+     [
+      85.81977351215131,
+      20.29590056186241
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R061",
+    "u": 40,
+    "v": 52,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 196.0,
+    "travel_min": 0.294,
+    "relative_elevation_m": 12.871,
+    "slope": 0.00088,
+    "criticality": 0.4,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81952510948915,
+      20.29414322947574
+     ],
+     [
+      85.81965499295676,
+      20.292310298889003
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R062",
+    "u": 40,
+    "v": 28,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 203.1,
+    "travel_min": 0.406,
+    "relative_elevation_m": 12.318,
+    "slope": 0.0046,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82093357833591,
+      20.294267652497478
+     ],
+     [
+      85.81952510948915,
+      20.29414322947574
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R063",
+    "u": 41,
+    "v": 40,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 147.7,
+    "travel_min": 0.295,
+    "relative_elevation_m": 11.984,
+    "slope": 0.01084,
+    "criticality": 0.24,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82093357833591,
+      20.294267652497478
+     ],
+     [
+      85.82089162405882,
+      20.292045075727334
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R064",
+    "u": 41,
+    "v": 29,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 245.8,
+    "travel_min": 0.492,
+    "relative_elevation_m": 10.672,
+    "slope": 0.00417,
+    "criticality": 0.24,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82093357833591,
+      20.294267652497478
+     ],
+     [
+      85.82101779324947,
+      20.29562680267067
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R065",
+    "u": 41,
+    "v": 53,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 150.5,
+    "travel_min": 0.226,
+    "relative_elevation_m": 11.473,
+    "slope": 0.00384,
+    "criticality": 0.4653,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82247203828861,
+      20.29360998736745
+     ],
+     [
+      85.82093357833591,
+      20.294267652497478
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R066",
+    "u": 42,
+    "v": 41,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 176.3,
+    "travel_min": 0.353,
+    "relative_elevation_m": 10.078,
+    "slope": 0.01254,
+    "criticality": 0.2875,
+    "linked_drain": "DR-20",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82247203828861,
+      20.29360998736745
+     ],
+     [
+      85.8227768769649,
+      20.292484406017135
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R067",
+    "u": 42,
+    "v": 30,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 128.5,
+    "travel_min": 0.257,
+    "relative_elevation_m": 8.515,
+    "slope": 0.00712,
+    "criticality": 0.24,
+    "linked_drain": "DR-14",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8243695017842,
+      20.294191471993607
+     ],
+     [
+      85.82247203828861,
+      20.29360998736745
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R068",
+    "u": 43,
+    "v": 42,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 208.3,
+    "travel_min": 0.417,
+    "relative_elevation_m": 8.293,
+    "slope": 0.00652,
+    "criticality": 0.2756,
+    "linked_drain": "DR-14",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82600083582008,
+      20.293725145878575
+     ],
+     [
+      85.8243695017842,
+      20.294191471993607
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R069",
+    "u": 44,
+    "v": 43,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 178.0,
+    "travel_min": 0.534,
+    "relative_elevation_m": 6.942,
+    "slope": 0.00755,
+    "criticality": 0.1497,
+    "linked_drain": "DR-14",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82600083582008,
+      20.293725145878575
+     ],
+     [
+      85.82604286352051,
+      20.292456410337067
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R070",
+    "u": 44,
+    "v": 32,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 140.4,
+    "travel_min": 0.211,
+    "relative_elevation_m": 5.975,
+    "slope": 0.00421,
+    "criticality": 0.4,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82775705630006,
+      20.293717699392033
+     ],
+     [
+      85.82600083582008,
+      20.293725145878575
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R071",
+    "u": 45,
+    "v": 44,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 183.4,
+    "travel_min": 0.55,
+    "relative_elevation_m": 5.606,
+    "slope": 0.00725,
+    "criticality": 0.1319,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82775705630006,
+      20.293717699392033
+     ],
+     [
+      85.82744316007845,
+      20.292393652173597
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R072",
+    "u": 45,
+    "v": 33,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 150.0,
+    "travel_min": 0.3,
+    "relative_elevation_m": 4.806,
+    "slope": 0.00181,
+    "criticality": 0.24,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82910481698086,
+      20.293961916549033
+     ],
+     [
+      85.82775705630006,
+      20.293717699392033
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R073",
+    "u": 46,
+    "v": 45,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 143.3,
+    "travel_min": 0.43,
+    "relative_elevation_m": 4.281,
+    "slope": 0.00922,
+    "criticality": 0.12,
+    "linked_drain": "DR-24",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82910481698086,
+      20.293961916549033
+     ],
+     [
+      85.82937557036475,
+      20.295883747342575
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R074",
+    "u": 46,
+    "v": 58,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 214.4,
+    "travel_min": 0.322,
+    "relative_elevation_m": 3.782,
+    "slope": 0.00151,
+    "criticality": 0.4238,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8309042260745,
+      20.293841701158538
+     ],
+     [
+      85.82910481698086,
+      20.293961916549033
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R075",
+    "u": 47,
+    "v": 46,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 188.3,
+    "travel_min": 0.377,
+    "relative_elevation_m": 2.568,
+    "slope": 0.01117,
+    "criticality": 0.2578,
+    "linked_drain": "DR-05",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81287011993545,
+      20.295554039814107
+     ],
+     [
+      85.81516951813163,
+      20.295351409349763
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R076",
+    "u": 48,
+    "v": 49,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 241.1,
+    "travel_min": 0.723,
+    "relative_elevation_m": 18.663,
+    "slope": 0.01021,
+    "criticality": 0.1616,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81516951813163,
+      20.295351409349763
+     ],
+     [
+      85.81655976570704,
+      20.296008464840725
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R077",
+    "u": 49,
+    "v": 50,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 162.3,
+    "travel_min": 0.325,
+    "relative_elevation_m": 16.885,
+    "slope": 0.00673,
+    "criticality": 0.2875,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81655976570704,
+      20.296008464840725
+     ],
+     [
+      85.81837534110187,
+      20.295474300812415
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R078",
+    "u": 50,
+    "v": 51,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 198.6,
+    "travel_min": 0.596,
+    "relative_elevation_m": 15.276,
+    "slope": 0.0107,
+    "criticality": 0.12,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81655976570704,
+      20.296008464840725
+     ],
+     [
+      85.81639519265538,
+      20.296950141557833
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R079",
+    "u": 50,
+    "v": 62,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 105.5,
+    "travel_min": 0.211,
+    "relative_elevation_m": 16.68,
+    "slope": 0.00647,
+    "criticality": 0.3588,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81655976570704,
+      20.296008464840725
+     ],
+     [
+      85.81652953321176,
+      20.293835120145346
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R080",
+    "u": 50,
+    "v": 38,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 240.3,
+    "travel_min": 0.481,
+    "relative_elevation_m": 15.819,
+    "slope": 0.00432,
+    "criticality": 0.24,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81837534110187,
+      20.295474300812415
+     ],
+     [
+      85.81977351215131,
+      20.29590056186241
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R081",
+    "u": 51,
+    "v": 52,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 153.4,
+    "travel_min": 0.307,
+    "relative_elevation_m": 13.586,
+    "slope": 0.00819,
+    "criticality": 0.2459,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81977351215131,
+      20.29590056186241
+     ],
+     [
+      85.82101779324947,
+      20.29562680267067
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R082",
+    "u": 52,
+    "v": 53,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 133.4,
+    "travel_min": 0.4,
+    "relative_elevation_m": 12.36,
+    "slope": 0.00897,
+    "criticality": 0.12,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81977351215131,
+      20.29590056186241
+     ],
+     [
+      85.81952510948915,
+      20.29414322947574
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R083",
+    "u": 52,
+    "v": 40,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 196.0,
+    "travel_min": 0.294,
+    "relative_elevation_m": 12.871,
+    "slope": 0.00088,
+    "criticality": 0.4119,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82101779324947,
+      20.29562680267067
+     ],
+     [
+      85.82312208191722,
+      20.295333444932993
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R084",
+    "u": 53,
+    "v": 54,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 222.1,
+    "travel_min": 0.444,
+    "relative_elevation_m": 10.681,
+    "slope": 0.00973,
+    "criticality": 0.24,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82101779324947,
+      20.29562680267067
+     ],
+     [
+      85.8215400960947,
+      20.297057337267187
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R085",
+    "u": 53,
+    "v": 65,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 167.3,
+    "travel_min": 0.251,
+    "relative_elevation_m": 11.949,
+    "slope": 0.00224,
+    "criticality": 0.4713,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82101779324947,
+      20.29562680267067
+     ],
+     [
+      85.82093357833591,
+      20.294267652497478
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R086",
+    "u": 53,
+    "v": 41,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 150.5,
+    "travel_min": 0.226,
+    "relative_elevation_m": 11.473,
+    "slope": 0.00384,
+    "criticality": 0.4,
+    "linked_drain": "DR-21",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82312208191722,
+      20.295333444932993
+     ],
+     [
+      85.8245,
+      20.2961
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R087",
+    "u": 54,
+    "v": 55,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 167.0,
+    "travel_min": 0.501,
+    "relative_elevation_m": 9.202,
+    "slope": 0.00477,
+    "criticality": 0.1259,
+    "linked_drain": "DR-01",
+    "u_name": "",
+    "v_name": "DR-01: ISKCON Temple NH-16 Box Culvert",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8245,
+      20.2961
+     ],
+     [
+      85.82606337565515,
+      20.295507617283185
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R088",
+    "u": 55,
+    "v": 56,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 175.9,
+    "travel_min": 0.528,
+    "relative_elevation_m": 7.828,
+    "slope": 0.01109,
+    "criticality": 0.12,
+    "linked_drain": "DR-01",
+    "u_name": "DR-01: ISKCON Temple NH-16 Box Culvert",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8245,
+      20.2961
+     ],
+     [
+      85.82401824309682,
+      20.297406671986256
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R089",
+    "u": 55,
+    "v": 67,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 153.0,
+    "travel_min": 0.229,
+    "relative_elevation_m": 9.483,
+    "slope": 0.00889,
+    "criticality": 0.4119,
+    "linked_drain": "DR-01",
+    "u_name": "DR-01: ISKCON Temple NH-16 Box Culvert",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82606337565515,
+      20.295507617283185
+     ],
+     [
+      85.82788529142726,
+      20.29540025115738
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R090",
+    "u": 56,
+    "v": 57,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 190.6,
+    "travel_min": 0.572,
+    "relative_elevation_m": 5.982,
+    "slope": 0.00914,
+    "criticality": 0.12,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82606337565515,
+      20.295507617283185
+     ],
+     [
+      85.826,
+      20.2982
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R091",
+    "u": 56,
+    "v": 68,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 297.8,
+    "travel_min": 0.596,
+    "relative_elevation_m": 7.445,
+    "slope": 0.00397,
+    "criticality": 0.2459,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "DR-03: Behera Sahi / VIP Colony Low-Point Drain",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82788529142726,
+      20.29540025115738
+     ],
+     [
+      85.82937557036475,
+      20.295883747342575
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R092",
+    "u": 57,
+    "v": 58,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 164.5,
+    "travel_min": 0.494,
+    "relative_elevation_m": 4.528,
+    "slope": 0.0071,
+    "criticality": 0.12,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82788529142726,
+      20.29540025115738
+     ],
+     [
+      85.82726618399992,
+      20.297566095499985
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R093",
+    "u": 57,
+    "v": 69,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 248.1,
+    "travel_min": 0.496,
+    "relative_elevation_m": 5.672,
+    "slope": 0.00452,
+    "criticality": 0.2459,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82937557036475,
+      20.295883747342575
+     ],
+     [
+      85.83090184707255,
+      20.295612450659725
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R094",
+    "u": 58,
+    "v": 59,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 162.2,
+    "travel_min": 0.486,
+    "relative_elevation_m": 3.281,
+    "slope": 0.00818,
+    "criticality": 0.12,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82937557036475,
+      20.295883747342575
+     ],
+     [
+      85.82910481698086,
+      20.293961916549033
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R095",
+    "u": 58,
+    "v": 46,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 214.4,
+    "travel_min": 0.322,
+    "relative_elevation_m": 3.782,
+    "slope": 0.00151,
+    "criticality": 0.4,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82937557036475,
+      20.295883747342575
+     ],
+     [
+      85.82919256559546,
+      20.297320022701633
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R096",
+    "u": 58,
+    "v": 70,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 160.0,
+    "travel_min": 0.24,
+    "relative_elevation_m": 4.264,
+    "slope": 0.004,
+    "criticality": 0.4297,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83090184707255,
+      20.295612450659725
+     ],
+     [
+      85.83085738244189,
+      20.29769499354258
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R097",
+    "u": 59,
+    "v": 71,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 230.3,
+    "travel_min": 0.691,
+    "relative_elevation_m": 3.221,
+    "slope": 0.00524,
+    "criticality": 0.1259,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81331987728124,
+      20.2974010058675
+     ],
+     [
+      85.81301358053047,
+      20.29897130007999
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R098",
+    "u": 60,
+    "v": 72,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 176.6,
+    "travel_min": 0.353,
+    "relative_elevation_m": 21.215,
+    "slope": 0.00535,
+    "criticality": 0.5192,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81473264592172,
+      20.296985738169127
+     ],
+     [
+      85.81331987728124,
+      20.2974010058675
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R099",
+    "u": 61,
+    "v": 60,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 154.5,
+    "travel_min": 0.463,
+    "relative_elevation_m": 19.934,
+    "slope": 0.01046,
+    "criticality": 0.3933,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81639519265538,
+      20.296950141557833
+     ],
+     [
+      85.81473264592172,
+      20.296985738169127
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R100",
+    "u": 62,
+    "v": 61,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 173.6,
+    "travel_min": 0.347,
+    "relative_elevation_m": 18.074,
+    "slope": 0.01212,
+    "criticality": 0.5073,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81639519265538,
+      20.296950141557833
+     ],
+     [
+      85.81655976570704,
+      20.296008464840725
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R101",
+    "u": 62,
+    "v": 50,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 105.5,
+    "travel_min": 0.211,
+    "relative_elevation_m": 16.68,
+    "slope": 0.00647,
+    "criticality": 0.24,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81639519265538,
+      20.296950141557833
+     ],
+     [
+      85.81601728966389,
+      20.298942561969234
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R102",
+    "u": 62,
+    "v": 74,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 223.8,
+    "travel_min": 0.336,
+    "relative_elevation_m": 17.762,
+    "slope": 0.00662,
+    "criticality": 0.4,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81771561935109,
+      20.297189706874253
+     ],
+     [
+      85.81639519265538,
+      20.296950141557833
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R103",
+    "u": 63,
+    "v": 62,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 140.4,
+    "travel_min": 0.281,
+    "relative_elevation_m": 16.219,
+    "slope": 0.01144,
+    "criticality": 0.3826,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81967011565774,
+      20.297001494910955
+     ],
+     [
+      85.81771561935109,
+      20.297189706874253
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R104",
+    "u": 64,
+    "v": 63,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 205.1,
+    "travel_min": 0.615,
+    "relative_elevation_m": 14.4,
+    "slope": 0.0099,
+    "criticality": 0.2566,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81967011565774,
+      20.297001494910955
+     ],
+     [
+      85.81964322891483,
+      20.29869434035397
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R105",
+    "u": 64,
+    "v": 76,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 187.2,
+    "travel_min": 0.374,
+    "relative_elevation_m": 13.837,
+    "slope": 0.00483,
+    "criticality": 0.24,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8215400960947,
+      20.297057337267187
+     ],
+     [
+      85.81967011565774,
+      20.297001494910955
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R106",
+    "u": 65,
+    "v": 64,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 195.3,
+    "travel_min": 0.391,
+    "relative_elevation_m": 12.761,
+    "slope": 0.00639,
+    "criticality": 0.3588,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8215400960947,
+      20.297057337267187
+     ],
+     [
+      85.82101779324947,
+      20.29562680267067
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R107",
+    "u": 65,
+    "v": 53,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 167.3,
+    "travel_min": 0.251,
+    "relative_elevation_m": 11.949,
+    "slope": 0.00224,
+    "criticality": 0.4,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8215400960947,
+      20.297057337267187
+     ],
+     [
+      85.82133779207442,
+      20.298668016282633
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R108",
+    "u": 65,
+    "v": 77,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 179.3,
+    "travel_min": 0.269,
+    "relative_elevation_m": 12.594,
+    "slope": 0.0051,
+    "criticality": 0.4,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82267749584362,
+      20.297398481924997
+     ],
+     [
+      85.8215400960947,
+      20.297057337267187
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R109",
+    "u": 66,
+    "v": 65,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 124.6,
+    "travel_min": 0.374,
+    "relative_elevation_m": 11.814,
+    "slope": 0.00517,
+    "criticality": 0.1556,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82401824309682,
+      20.297406671986256
+     ],
+     [
+      85.82267749584362,
+      20.297398481924997
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R110",
+    "u": 67,
+    "v": 66,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 140.0,
+    "travel_min": 0.42,
+    "relative_elevation_m": 10.827,
+    "slope": 0.00949,
+    "criticality": 0.1497,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82401824309682,
+      20.297406671986256
+     ],
+     [
+      85.8245,
+      20.2961
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R111",
+    "u": 67,
+    "v": 55,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 153.0,
+    "travel_min": 0.229,
+    "relative_elevation_m": 9.483,
+    "slope": 0.00889,
+    "criticality": 0.4,
+    "linked_drain": "DR-01",
+    "u_name": "",
+    "v_name": "DR-01: ISKCON Temple NH-16 Box Culvert",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.826,
+      20.2982
+     ],
+     [
+      85.82401824309682,
+      20.297406671986256
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R112",
+    "u": 68,
+    "v": 67,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 224.7,
+    "travel_min": 0.674,
+    "relative_elevation_m": 9.1,
+    "slope": 0.00946,
+    "criticality": 0.1319,
+    "linked_drain": "DR-03",
+    "u_name": "DR-03: Behera Sahi / VIP Colony Low-Point Drain",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.826,
+      20.2982
+     ],
+     [
+      85.82606337565515,
+      20.295507617283185
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R113",
+    "u": 68,
+    "v": 56,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 297.8,
+    "travel_min": 0.596,
+    "relative_elevation_m": 7.445,
+    "slope": 0.00397,
+    "criticality": 0.24,
+    "linked_drain": "DR-03",
+    "u_name": "DR-03: Behera Sahi / VIP Colony Low-Point Drain",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82726618399992,
+      20.297566095499985
+     ],
+     [
+      85.826,
+      20.2982
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R114",
+    "u": 69,
+    "v": 68,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 149.6,
+    "travel_min": 0.449,
+    "relative_elevation_m": 7.134,
+    "slope": 0.01206,
+    "criticality": 0.12,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "DR-03: Behera Sahi / VIP Colony Low-Point Drain",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82726618399992,
+      20.297566095499985
+     ],
+     [
+      85.82722993004494,
+      20.298769111183546
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R115",
+    "u": 69,
+    "v": 81,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 133.1,
+    "travel_min": 0.2,
+    "relative_elevation_m": 6.59,
+    "slope": 0.00537,
+    "criticality": 0.4594,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82726618399992,
+      20.297566095499985
+     ],
+     [
+      85.82788529142726,
+      20.29540025115738
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R116",
+    "u": 69,
+    "v": 57,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 248.1,
+    "travel_min": 0.496,
+    "relative_elevation_m": 5.672,
+    "slope": 0.00452,
+    "criticality": 0.24,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82919256559546,
+      20.297320022701633
+     ],
+     [
+      85.82726618399992,
+      20.297566095499985
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R117",
+    "u": 70,
+    "v": 69,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 203.0,
+    "travel_min": 0.406,
+    "relative_elevation_m": 5.408,
+    "slope": 0.00812,
+    "criticality": 0.2875,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82919256559546,
+      20.297320022701633
+     ],
+     [
+      85.82937557036475,
+      20.295883747342575
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R118",
+    "u": 70,
+    "v": 58,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 160.0,
+    "travel_min": 0.24,
+    "relative_elevation_m": 4.264,
+    "slope": 0.004,
+    "criticality": 0.4,
+    "linked_drain": "DR-12",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83085738244189,
+      20.29769499354258
+     ],
+     [
+      85.82919256559546,
+      20.297320022701633
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R119",
+    "u": 71,
+    "v": 70,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 178.7,
+    "travel_min": 0.536,
+    "relative_elevation_m": 4.204,
+    "slope": 0.00425,
+    "criticality": 0.1319,
+    "linked_drain": "DR-04",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81301358053047,
+      20.29897130007999
+     ],
+     [
+      85.81481653792197,
+      20.29885334845557
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R120",
+    "u": 72,
+    "v": 73,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 188.7,
+    "travel_min": 0.377,
+    "relative_elevation_m": 20.8,
+    "slope": 0.00941,
+    "criticality": 0.24,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81301358053047,
+      20.29897130007999
+     ],
+     [
+      85.81356231951605,
+      20.30050357765759
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R121",
+    "u": 72,
+    "v": 84,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 178.9,
+    "travel_min": 0.358,
+    "relative_elevation_m": 21.631,
+    "slope": 0.00064,
+    "criticality": 0.5251,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81481653792197,
+      20.29885334845557
+     ],
+     [
+      85.81601728966389,
+      20.298942561969234
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R122",
+    "u": 73,
+    "v": 74,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 125.8,
+    "travel_min": 0.252,
+    "relative_elevation_m": 19.207,
+    "slope": 0.01121,
+    "criticality": 0.24,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81481653792197,
+      20.29885334845557
+     ],
+     [
+      85.81481204570338,
+      20.300481785047698
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R123",
+    "u": 73,
+    "v": 85,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 180.1,
+    "travel_min": 0.27,
+    "relative_elevation_m": 20.1,
+    "slope": 0.00209,
+    "criticality": 0.4059,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81601728966389,
+      20.298942561969234
+     ],
+     [
+      85.81831692861746,
+      20.299264518177
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R124",
+    "u": 74,
+    "v": 75,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 242.7,
+    "travel_min": 0.485,
+    "relative_elevation_m": 17.234,
+    "slope": 0.01045,
+    "criticality": 0.24,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81601728966389,
+      20.298942561969234
+     ],
+     [
+      85.81639519265538,
+      20.296950141557833
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R125",
+    "u": 74,
+    "v": 62,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 223.8,
+    "travel_min": 0.336,
+    "relative_elevation_m": 17.762,
+    "slope": 0.00662,
+    "criticality": 0.4,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81601728966389,
+      20.298942561969234
+     ],
+     [
+      85.81674883485603,
+      20.300452735430827
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R126",
+    "u": 74,
+    "v": 86,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 183.6,
+    "travel_min": 0.367,
+    "relative_elevation_m": 18.468,
+    "slope": 0.00038,
+    "criticality": 0.2459,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81831692861746,
+      20.299264518177
+     ],
+     [
+      85.81964322891483,
+      20.29869434035397
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R127",
+    "u": 75,
+    "v": 76,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 152.2,
+    "travel_min": 0.304,
+    "relative_elevation_m": 15.128,
+    "slope": 0.01102,
+    "criticality": 0.2459,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81964322891483,
+      20.29869434035397
+     ],
+     [
+      85.82133779207442,
+      20.298668016282633
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R128",
+    "u": 76,
+    "v": 77,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 176.9,
+    "travel_min": 0.354,
+    "relative_elevation_m": 13.67,
+    "slope": 0.007,
+    "criticality": 0.24,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81964322891483,
+      20.29869434035397
+     ],
+     [
+      85.81967011565774,
+      20.297001494910955
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R129",
+    "u": 76,
+    "v": 64,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 187.2,
+    "travel_min": 0.374,
+    "relative_elevation_m": 13.837,
+    "slope": 0.00483,
+    "criticality": 0.2519,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82133779207442,
+      20.298668016282633
+     ],
+     [
+      85.82292753810773,
+      20.298811514300347
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R130",
+    "u": 77,
+    "v": 78,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 166.7,
+    "travel_min": 0.5,
+    "relative_elevation_m": 12.451,
+    "slope": 0.0072,
+    "criticality": 0.12,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82133779207442,
+      20.298668016282633
+     ],
+     [
+      85.8215400960947,
+      20.297057337267187
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R131",
+    "u": 77,
+    "v": 65,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 179.3,
+    "travel_min": 0.269,
+    "relative_elevation_m": 12.594,
+    "slope": 0.0051,
+    "criticality": 0.4059,
+    "linked_drain": "DR-17",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82292753810773,
+      20.298811514300347
+     ],
+     [
+      85.82461491799353,
+      20.299181991079433
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R132",
+    "u": 78,
+    "v": 79,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 180.9,
+    "travel_min": 0.362,
+    "relative_elevation_m": 11.017,
+    "slope": 0.00922,
+    "criticality": 0.24,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82292753810773,
+      20.298811514300347
+     ],
+     [
+      85.82311475731174,
+      20.30098034753686
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R133",
+    "u": 78,
+    "v": 90,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 240.6,
+    "travel_min": 0.361,
+    "relative_elevation_m": 11.963,
+    "slope": 0.00093,
+    "criticality": 0.4059,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82461491799353,
+      20.299181991079433
+     ],
+     [
+      85.8263328094761,
+      20.298667322475087
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R134",
+    "u": 79,
+    "v": 80,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 188.2,
+    "travel_min": 0.565,
+    "relative_elevation_m": 9.033,
+    "slope": 0.01222,
+    "criticality": 0.1259,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8263328094761,
+      20.298667322475087
+     ],
+     [
+      85.82722993004494,
+      20.298769111183546
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R135",
+    "u": 80,
+    "v": 81,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 94.3,
+    "travel_min": 0.283,
+    "relative_elevation_m": 7.415,
+    "slope": 0.00992,
+    "criticality": 0.12,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8263328094761,
+      20.298667322475087
+     ],
+     [
+      85.82612932901053,
+      20.300881628110243
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R136",
+    "u": 80,
+    "v": 92,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 245.8,
+    "travel_min": 0.369,
+    "relative_elevation_m": 8.687,
+    "slope": 0.00654,
+    "criticality": 0.4119,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82722993004494,
+      20.298769111183546
+     ],
+     [
+      85.8285,
+      20.2998
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R137",
+    "u": 81,
+    "v": 82,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 174.9,
+    "travel_min": 0.525,
+    "relative_elevation_m": 6.74,
+    "slope": 0.00237,
+    "criticality": 0.1853,
+    "linked_drain": "DR-04",
+    "u_name": "",
+    "v_name": "DR-04: Jayadev Vihar Hospital Connector Grate",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82722993004494,
+      20.298769111183546
+     ],
+     [
+      85.82726618399992,
+      20.297566095499985
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R138",
+    "u": 81,
+    "v": 69,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 133.1,
+    "travel_min": 0.2,
+    "relative_elevation_m": 6.59,
+    "slope": 0.00537,
+    "criticality": 0.4,
+    "linked_drain": "DR-03",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8285,
+      20.2998
+     ],
+     [
+      85.83104660117765,
+      20.299267425253184
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R139",
+    "u": 82,
+    "v": 83,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 272.3,
+    "travel_min": 0.545,
+    "relative_elevation_m": 5.391,
+    "slope": 0.00839,
+    "criticality": 0.24,
+    "linked_drain": "DR-04",
+    "u_name": "DR-04: Jayadev Vihar Hospital Connector Grate",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8285,
+      20.2998
+     ],
+     [
+      85.82900996841272,
+      20.300860665143652
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R140",
+    "u": 82,
+    "v": 94,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 128.8,
+    "travel_min": 0.193,
+    "relative_elevation_m": 6.666,
+    "slope": 0.00206,
+    "criticality": 0.4713,
+    "linked_drain": "DR-04",
+    "u_name": "DR-04: Jayadev Vihar Hospital Connector Grate",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83104660117765,
+      20.299267425253184
+     ],
+     [
+      85.83059277646,
+      20.30101859581844
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R141",
+    "u": 83,
+    "v": 95,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 199.3,
+    "travel_min": 0.598,
+    "relative_elevation_m": 4.695,
+    "slope": 0.00449,
+    "criticality": 0.1259,
+    "linked_drain": "DR-07",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81356231951605,
+      20.30050357765759
+     ],
+     [
+      85.8134648901377,
+      20.302004247703824
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R142",
+    "u": 84,
+    "v": 96,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 166.2,
+    "travel_min": 0.499,
+    "relative_elevation_m": 21.857,
+    "slope": 0.00341,
+    "criticality": 0.4883,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81356231951605,
+      20.30050357765759
+     ],
+     [
+      85.81301358053047,
+      20.29897130007999
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R143",
+    "u": 84,
+    "v": 72,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 178.9,
+    "travel_min": 0.358,
+    "relative_elevation_m": 21.631,
+    "slope": 0.00064,
+    "criticality": 0.24,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81481204570338,
+      20.300481785047698
+     ],
+     [
+      85.81356231951605,
+      20.30050357765759
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R144",
+    "u": 85,
+    "v": 84,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 130.5,
+    "travel_min": 0.261,
+    "relative_elevation_m": 20.931,
+    "slope": 0.00985,
+    "criticality": 0.3172,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81481204570338,
+      20.300481785047698
+     ],
+     [
+      85.81481653792197,
+      20.29885334845557
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R145",
+    "u": 85,
+    "v": 73,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 180.1,
+    "travel_min": 0.27,
+    "relative_elevation_m": 20.1,
+    "slope": 0.00209,
+    "criticality": 0.4,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81674883485603,
+      20.300452735430827
+     ],
+     [
+      85.81481204570338,
+      20.300481785047698
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R146",
+    "u": 86,
+    "v": 85,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 202.2,
+    "travel_min": 0.607,
+    "relative_elevation_m": 19.36,
+    "slope": 0.00917,
+    "criticality": 0.1853,
+    "linked_drain": "DR-08",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81674883485603,
+      20.300452735430827
+     ],
+     [
+      85.81601728966389,
+      20.298942561969234
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R147",
+    "u": 86,
+    "v": 74,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 183.6,
+    "travel_min": 0.367,
+    "relative_elevation_m": 18.468,
+    "slope": 0.00038,
+    "criticality": 0.24,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8176359284955,
+      20.30037680738617
+     ],
+     [
+      85.81674883485603,
+      20.300452735430827
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R148",
+    "u": 87,
+    "v": 86,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 93.0,
+    "travel_min": 0.279,
+    "relative_elevation_m": 17.986,
+    "slope": 0.00961,
+    "criticality": 0.1735,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81999390045124,
+      20.30060161400098
+     ],
+     [
+      85.8176359284955,
+      20.30037680738617
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R149",
+    "u": 88,
+    "v": 87,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 247.4,
+    "travel_min": 0.495,
+    "relative_elevation_m": 16.436,
+    "slope": 0.00891,
+    "criticality": 0.2875,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82139888641555,
+      20.30098108288351
+     ],
+     [
+      85.81999390045124,
+      20.30060161400098
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R150",
+    "u": 89,
+    "v": 88,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 152.6,
+    "travel_min": 0.458,
+    "relative_elevation_m": 14.643,
+    "slope": 0.00905,
+    "criticality": 0.1616,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82311475731174,
+      20.30098034753686
+     ],
+     [
+      85.82139888641555,
+      20.30098108288351
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R151",
+    "u": 90,
+    "v": 89,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 179.1,
+    "travel_min": 0.358,
+    "relative_elevation_m": 13.014,
+    "slope": 0.01049,
+    "criticality": 0.2756,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82311475731174,
+      20.30098034753686
+     ],
+     [
+      85.82292753810773,
+      20.298811514300347
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R152",
+    "u": 90,
+    "v": 78,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 240.6,
+    "travel_min": 0.361,
+    "relative_elevation_m": 11.963,
+    "slope": 0.00093,
+    "criticality": 0.4,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82425274324146,
+      20.30067122894841
+     ],
+     [
+      85.82311475731174,
+      20.30098034753686
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R153",
+    "u": 91,
+    "v": 90,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 123.6,
+    "travel_min": 0.371,
+    "relative_elevation_m": 11.514,
+    "slope": 0.00907,
+    "criticality": 0.1438,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82612932901053,
+      20.300881628110243
+     ],
+     [
+      85.82425274324146,
+      20.30067122894841
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R154",
+    "u": 92,
+    "v": 91,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 197.3,
+    "travel_min": 0.592,
+    "relative_elevation_m": 10.222,
+    "slope": 0.00741,
+    "criticality": 0.1378,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82612932901053,
+      20.300881628110243
+     ],
+     [
+      85.8263328094761,
+      20.298667322475087
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R155",
+    "u": 92,
+    "v": 80,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 245.8,
+    "travel_min": 0.369,
+    "relative_elevation_m": 8.687,
+    "slope": 0.00654,
+    "criticality": 0.4,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82727557333443,
+      20.300550551090218
+     ],
+     [
+      85.82612932901053,
+      20.300881628110243
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R156",
+    "u": 93,
+    "v": 92,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 125.1,
+    "travel_min": 0.375,
+    "relative_elevation_m": 8.879,
+    "slope": 0.00979,
+    "criticality": 0.12,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82727557333443,
+      20.300550551090218
+     ],
+     [
+      85.82766489328736,
+      20.30247923144651
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R157",
+    "u": 93,
+    "v": 105,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 217.1,
+    "travel_min": 0.434,
+    "relative_elevation_m": 8.738,
+    "slope": 0.00435,
+    "criticality": 0.3232,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82900996841272,
+      20.300860665143652
+     ],
+     [
+      85.82727557333443,
+      20.300550551090218
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R158",
+    "u": 94,
+    "v": 93,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 184.3,
+    "travel_min": 0.553,
+    "relative_elevation_m": 7.532,
+    "slope": 0.00796,
+    "criticality": 0.1972,
+    "linked_drain": "DR-04",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82900996841272,
+      20.300860665143652
+     ],
+     [
+      85.8285,
+      20.2998
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R159",
+    "u": 94,
+    "v": 82,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 128.8,
+    "travel_min": 0.193,
+    "relative_elevation_m": 6.666,
+    "slope": 0.00206,
+    "criticality": 0.4,
+    "linked_drain": "DR-04",
+    "u_name": "",
+    "v_name": "DR-04: Jayadev Vihar Hospital Connector Grate",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83059277646,
+      20.30101859581844
+     ],
+     [
+      85.82900996841272,
+      20.300860665143652
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R160",
+    "u": 95,
+    "v": 94,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 166.2,
+    "travel_min": 0.499,
+    "relative_elevation_m": 5.971,
+    "slope": 0.00996,
+    "criticality": 0.12,
+    "linked_drain": "DR-04",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83059277646,
+      20.30101859581844
+     ],
+     [
+      85.83099118720313,
+      20.302496805036615
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R161",
+    "u": 95,
+    "v": 107,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 168.7,
+    "travel_min": 0.253,
+    "relative_elevation_m": 5.189,
+    "slope": 0.00055,
+    "criticality": 0.4119,
+    "linked_drain": "DR-07",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8134648901377,
+      20.302004247703824
+     ],
+     [
+      85.81454341464652,
+      20.302029618520926
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R162",
+    "u": 96,
+    "v": 97,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 112.6,
+    "travel_min": 0.225,
+    "relative_elevation_m": 21.561,
+    "slope": 0.01027,
+    "criticality": 0.6202,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8134648901377,
+      20.302004247703824
+     ],
+     [
+      85.81289900304292,
+      20.30367336799796
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R163",
+    "u": 96,
+    "v": 108,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 193.8,
+    "travel_min": 0.388,
+    "relative_elevation_m": 22.959,
+    "slope": 0.00845,
+    "criticality": 0.24,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81454341464652,
+      20.302029618520926
+     ],
+     [
+      85.81669964963265,
+      20.30240037592006
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R164",
+    "u": 97,
+    "v": 98,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 228.8,
+    "travel_min": 0.686,
+    "relative_elevation_m": 20.259,
+    "slope": 0.00633,
+    "criticality": 0.5061,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81669964963265,
+      20.30240037592006
+     ],
+     [
+      85.81784825893831,
+      20.302065481255504
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R165",
+    "u": 98,
+    "v": 99,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 125.5,
+    "travel_min": 0.251,
+    "relative_elevation_m": 19.033,
+    "slope": 0.00801,
+    "criticality": 0.24,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81669964963265,
+      20.30240037592006
+     ],
+     [
+      85.81639086723627,
+      20.303814566246057
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R166",
+    "u": 98,
+    "v": 110,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 159.7,
+    "travel_min": 0.239,
+    "relative_elevation_m": 20.004,
+    "slope": 0.00588,
+    "criticality": 0.7921,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81784825893831,
+      20.302065481255504
+     ],
+     [
+      85.81997746114084,
+      20.302548332021114
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R167",
+    "u": 99,
+    "v": 100,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 228.6,
+    "travel_min": 0.686,
+    "relative_elevation_m": 17.549,
+    "slope": 0.00858,
+    "criticality": 0.1259,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81997746114084,
+      20.302548332021114
+     ],
+     [
+      85.82091511800203,
+      20.302318393785864
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R168",
+    "u": 100,
+    "v": 101,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 101.1,
+    "travel_min": 0.202,
+    "relative_elevation_m": 15.885,
+    "slope": 0.01351,
+    "criticality": 0.2519,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82091511800203,
+      20.302318393785864
+     ],
+     [
+      85.82258372482399,
+      20.301913804825784
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R169",
+    "u": 101,
+    "v": 102,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 179.9,
+    "travel_min": 0.54,
+    "relative_elevation_m": 14.049,
+    "slope": 0.01282,
+    "criticality": 0.12,
+    "linked_drain": "DR-13",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82091511800203,
+      20.302318393785864
+     ],
+     [
+      85.82124415843386,
+      20.30358510544395
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R170",
+    "u": 101,
+    "v": 113,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 144.2,
+    "travel_min": 0.216,
+    "relative_elevation_m": 15.306,
+    "slope": 0.00145,
+    "criticality": 0.4178,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82258372482399,
+      20.301913804825784
+     ],
+     [
+      85.8245421269389,
+      20.302011781132116
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R171",
+    "u": 102,
+    "v": 103,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 204.8,
+    "travel_min": 0.614,
+    "relative_elevation_m": 12.031,
+    "slope": 0.00845,
+    "criticality": 0.12,
+    "linked_drain": "DR-15",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82258372482399,
+      20.301913804825784
+     ],
+     [
+      85.82248471792299,
+      20.30409134820393
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R172",
+    "u": 102,
+    "v": 114,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 241.0,
+    "travel_min": 0.482,
+    "relative_elevation_m": 13.577,
+    "slope": 0.00565,
+    "criticality": 0.2459,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8245421269389,
+      20.302011781132116
+     ],
+     [
+      85.82600506394529,
+      20.302003478570512
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R173",
+    "u": 103,
+    "v": 104,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 152.7,
+    "travel_min": 0.458,
+    "relative_elevation_m": 10.696,
+    "slope": 0.00616,
+    "criticality": 0.12,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8245421269389,
+      20.302011781132116
+     ],
+     [
+      85.82433529145545,
+      20.303681082242893
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R174",
+    "u": 103,
+    "v": 115,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 185.8,
+    "travel_min": 0.279,
+    "relative_elevation_m": 11.685,
+    "slope": 0.00559,
+    "criticality": 0.4059,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82600506394529,
+      20.302003478570512
+     ],
+     [
+      85.82766489328736,
+      20.30247923144651
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R175",
+    "u": 104,
+    "v": 105,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 181.1,
+    "travel_min": 0.543,
+    "relative_elevation_m": 9.718,
+    "slope": 0.0056,
+    "criticality": 0.1259,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82766489328736,
+      20.30247923144651
+     ],
+     [
+      85.82944329962093,
+      20.302068257986047
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R176",
+    "u": 105,
+    "v": 106,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 191.2,
+    "travel_min": 0.573,
+    "relative_elevation_m": 8.1,
+    "slope": 0.01161,
+    "criticality": 0.12,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82766489328736,
+      20.30247923144651
+     ],
+     [
+      85.82784348873248,
+      20.30433989041084
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R177",
+    "u": 105,
+    "v": 117,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 206.6,
+    "travel_min": 0.31,
+    "relative_elevation_m": 9.418,
+    "slope": 0.00201,
+    "criticality": 0.495,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82766489328736,
+      20.30247923144651
+     ],
+     [
+      85.82727557333443,
+      20.300550551090218
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R178",
+    "u": 105,
+    "v": 93,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 217.1,
+    "travel_min": 0.434,
+    "relative_elevation_m": 8.738,
+    "slope": 0.00435,
+    "criticality": 0.24,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82944329962093,
+      20.302068257986047
+     ],
+     [
+      85.83099118720313,
+      20.302496805036615
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R179",
+    "u": 106,
+    "v": 107,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 168.4,
+    "travel_min": 0.505,
+    "relative_elevation_m": 6.113,
+    "slope": 0.01042,
+    "criticality": 0.1259,
+    "linked_drain": "DR-07",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83099118720313,
+      20.302496805036615
+     ],
+     [
+      85.8304873151974,
+      20.303579268793793
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R180",
+    "u": 107,
+    "v": 119,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 130.7,
+    "travel_min": 0.261,
+    "relative_elevation_m": 5.818,
+    "slope": 0.00892,
+    "criticality": 0.2638,
+    "linked_drain": "DR-07",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83099118720313,
+      20.302496805036615
+     ],
+     [
+      85.83059277646,
+      20.30101859581844
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R181",
+    "u": 107,
+    "v": 95,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 168.7,
+    "travel_min": 0.253,
+    "relative_elevation_m": 5.189,
+    "slope": 0.00055,
+    "criticality": 0.4,
+    "linked_drain": "DR-07",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81289900304292,
+      20.30367336799796
+     ],
+     [
+      85.8131511027518,
+      20.28924768791591
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R182",
+    "u": 108,
+    "v": 0,
+    "road_class": "ring_bypass",
+    "oneway": true,
+    "length_m": 1595.3,
+    "travel_min": 2.735,
+    "relative_elevation_m": 20.195,
+    "slope": 0.00449,
+    "criticality": 0.2,
+    "linked_drain": "DR-18",
+    "u_name": "",
+    "v_name": "HOSPITAL: AIIMS corridor gateway (south-west)",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81289900304292,
+      20.30367336799796
+     ],
+     [
+      85.8134648901377,
+      20.302004247703824
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R183",
+    "u": 108,
+    "v": 96,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 193.8,
+    "travel_min": 0.388,
+    "relative_elevation_m": 22.959,
+    "slope": 0.00845,
+    "criticality": 0.2459,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81471806255504,
+      20.304335351986836
+     ],
+     [
+      85.81289900304292,
+      20.30367336799796
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R184",
+    "u": 109,
+    "v": 108,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 203.5,
+    "travel_min": 0.611,
+    "relative_elevation_m": 23.026,
+    "slope": 0.00738,
+    "criticality": 0.12,
+    "linked_drain": "DR-16",
+    "u_name": "HOSPITAL: KIMS corridor gateway (north)",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81639086723627,
+      20.303814566246057
+     ],
+     [
+      85.81471806255504,
+      20.304335351986836
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R185",
+    "u": 110,
+    "v": 109,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 183.9,
+    "travel_min": 0.552,
+    "relative_elevation_m": 21.374,
+    "slope": 0.00979,
+    "criticality": 0.72,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "HOSPITAL: KIMS corridor gateway (north)",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81639086723627,
+      20.303814566246057
+     ],
+     [
+      85.81669964963265,
+      20.30240037592006
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R186",
+    "u": 110,
+    "v": 98,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 159.7,
+    "travel_min": 0.239,
+    "relative_elevation_m": 20.004,
+    "slope": 0.00588,
+    "criticality": 0.4,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81836449860563,
+      20.30411535825683
+     ],
+     [
+      85.81639086723627,
+      20.303814566246057
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R187",
+    "u": 111,
+    "v": 110,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 208.7,
+    "travel_min": 0.626,
+    "relative_elevation_m": 19.697,
+    "slope": 0.00744,
+    "criticality": 0.322,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81993984674344,
+      20.303802513086342
+     ],
+     [
+      85.81836449860563,
+      20.30411535825683
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R188",
+    "u": 112,
+    "v": 111,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 168.1,
+    "travel_min": 0.504,
+    "relative_elevation_m": 18.032,
+    "slope": 0.01057,
+    "criticality": 0.316,
+    "linked_drain": "DR-16",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82124415843386,
+      20.30358510544395
+     ],
+     [
+      85.81993984674344,
+      20.303802513086342
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R189",
+    "u": 113,
+    "v": 112,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 138.3,
+    "travel_min": 0.415,
+    "relative_elevation_m": 16.277,
+    "slope": 0.01253,
+    "criticality": 0.3101,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82124415843386,
+      20.30358510544395
+     ],
+     [
+      85.82091511800203,
+      20.302318393785864
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R190",
+    "u": 113,
+    "v": 101,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 144.2,
+    "travel_min": 0.216,
+    "relative_elevation_m": 15.306,
+    "slope": 0.00145,
+    "criticality": 0.4,
+    "linked_drain": "DR-25",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82248471792299,
+      20.30409134820393
+     ],
+     [
+      85.82124415843386,
+      20.30358510544395
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R191",
+    "u": 114,
+    "v": 113,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 141.1,
+    "travel_min": 0.423,
+    "relative_elevation_m": 14.834,
+    "slope": 0.00817,
+    "criticality": 0.2863,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82248471792299,
+      20.30409134820393
+     ],
+     [
+      85.82258372482399,
+      20.301913804825784
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R192",
+    "u": 114,
+    "v": 102,
+    "road_class": "collector",
+    "oneway": false,
+    "length_m": 241.0,
+    "travel_min": 0.482,
+    "relative_elevation_m": 13.577,
+    "slope": 0.00565,
+    "criticality": 0.24,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82433529145545,
+      20.303681082242893
+     ],
+     [
+      85.82248471792299,
+      20.30409134820393
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R193",
+    "u": 115,
+    "v": 114,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 198.5,
+    "travel_min": 0.595,
+    "relative_elevation_m": 13.231,
+    "slope": 0.01035,
+    "criticality": 0.2745,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82433529145545,
+      20.303681082242893
+     ],
+     [
+      85.8245421269389,
+      20.302011781132116
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R194",
+    "u": 115,
+    "v": 103,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 185.8,
+    "travel_min": 0.279,
+    "relative_elevation_m": 11.685,
+    "slope": 0.00559,
+    "criticality": 0.4,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82607683404258,
+      20.304367490522537
+     ],
+     [
+      85.82433529145545,
+      20.303681082242893
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R195",
+    "u": 116,
+    "v": 115,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 197.0,
+    "travel_min": 0.394,
+    "relative_elevation_m": 11.707,
+    "slope": 0.00504,
+    "criticality": 0.3826,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82784348873248,
+      20.30433989041084
+     ],
+     [
+      85.82607683404258,
+      20.304367490522537
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R196",
+    "u": 117,
+    "v": 116,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 184.5,
+    "travel_min": 0.553,
+    "relative_elevation_m": 10.418,
+    "slope": 0.0086,
+    "criticality": 0.2566,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82784348873248,
+      20.30433989041084
+     ],
+     [
+      85.82766489328736,
+      20.30247923144651
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R197",
+    "u": 117,
+    "v": 105,
+    "road_class": "arterial",
+    "oneway": false,
+    "length_m": 206.6,
+    "travel_min": 0.31,
+    "relative_elevation_m": 9.418,
+    "slope": 0.00201,
+    "criticality": 0.4,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82942781075938,
+      20.303952890486624
+     ],
+     [
+      85.82784348873248,
+      20.30433989041084
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R198",
+    "u": 118,
+    "v": 117,
+    "road_class": "collector",
+    "oneway": true,
+    "length_m": 170.9,
+    "travel_min": 0.342,
+    "relative_elevation_m": 8.732,
+    "slope": 0.01045,
+    "criticality": 0.2756,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8304873151974,
+      20.303579268793793
+     ],
+     [
+      85.82942781075938,
+      20.303952890486624
+     ]
+    ]
+   },
+   "properties": {
+    "edge_id": "R199",
+    "u": 119,
+    "v": 118,
+    "road_class": "local",
+    "oneway": true,
+    "length_m": 118.1,
+    "travel_min": 0.354,
+    "relative_elevation_m": 7.121,
+    "slope": 0.01217,
+    "criticality": 0.1497,
+    "linked_drain": "DR-09",
+    "u_name": "",
+    "v_name": "",
+    "provenance": "SYNTHETIC_GRID_ANCHORED_TO_REAL_LANDMARKS",
+    "area": "bhubaneswar"
+   }
+  }
+ ]
+}

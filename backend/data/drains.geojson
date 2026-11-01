@@ -1,0 +1,1108 @@
+{
+ "type": "FeatureCollection",
+ "name": "drains",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8245,
+     20.2961
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-01",
+    "name": "ISKCON Temple NH-16 Box Culvert",
+    "nfc_tagged": true,
+    "invert_elev_m": 25.898,
+    "upstream_contributing_nodes": 4,
+    "catchment_km2": 0.1586,
+    "drain_capacity_proxy": 3.965,
+    "provenance": "REAL_COORDINATES",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8168,
+     20.2915
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-02",
+    "name": "CRP Square Main Junction Inlet",
+    "nfc_tagged": true,
+    "invert_elev_m": 33.29,
+    "upstream_contributing_nodes": 5,
+    "catchment_km2": 0.1842,
+    "drain_capacity_proxy": 4.287,
+    "provenance": "REAL_COORDINATES",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.826,
+     20.2982
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-03",
+    "name": "Behera Sahi / VIP Colony Low-Point Drain",
+    "nfc_tagged": true,
+    "invert_elev_m": 27.401,
+    "upstream_contributing_nodes": 3,
+    "catchment_km2": 0.1183,
+    "drain_capacity_proxy": 3.274,
+    "provenance": "REAL_COORDINATES",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8285,
+     20.2998
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-04",
+    "name": "Jayadev Vihar Hospital Connector Grate",
+    "nfc_tagged": true,
+    "invert_elev_m": 25.898,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.0247,
+    "drain_capacity_proxy": 2.015,
+    "provenance": "REAL_COORDINATES",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8305,
+     20.293
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-05",
+    "name": "Drainage Channel No. 4 Outfall",
+    "nfc_tagged": true,
+    "invert_elev_m": 18.719,
+    "upstream_contributing_nodes": 24,
+    "catchment_km2": 0.6062,
+    "drain_capacity_proxy": 12.85,
+    "provenance": "REAL_COORDINATES",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8266924218387,
+     20.290638620871498
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-06",
+    "name": "Synthetic inlet 06",
+    "nfc_tagged": false,
+    "invert_elev_m": 23.475,
+    "upstream_contributing_nodes": 13,
+    "catchment_km2": 0.5509,
+    "drain_capacity_proxy": 7.855,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.83160409569797,
+     20.300068379853784
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-07",
+    "name": "Synthetic inlet 07",
+    "nfc_tagged": false,
+    "invert_elev_m": 23.302,
+    "upstream_contributing_nodes": 1,
+    "catchment_km2": 0.0559,
+    "drain_capacity_proxy": 2.468,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81309000629982,
+     20.29839624130161
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-08",
+    "name": "Synthetic inlet 08",
+    "nfc_tagged": false,
+    "invert_elev_m": 40.771,
+    "upstream_contributing_nodes": 1,
+    "catchment_km2": 0.0555,
+    "drain_capacity_proxy": 2.54,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.826191565702,
+     20.303030477093234
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-09",
+    "name": "Synthetic inlet 09",
+    "nfc_tagged": false,
+    "invert_elev_m": 29.971,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.019,
+    "drain_capacity_proxy": 1.9,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81383442011648,
+     20.290943173389184
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-10",
+    "name": "Synthetic inlet 10",
+    "nfc_tagged": false,
+    "invert_elev_m": 35.722,
+    "upstream_contributing_nodes": 4,
+    "catchment_km2": 0.0912,
+    "drain_capacity_proxy": 3.526,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.83160054359108,
+     20.291120064890965
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-11",
+    "name": "Synthetic inlet 11",
+    "nfc_tagged": false,
+    "invert_elev_m": 19.219,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.0422,
+    "drain_capacity_proxy": 2.084,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82768161896682,
+     20.295795530921794
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-12",
+    "name": "Synthetic inlet 12",
+    "nfc_tagged": false,
+    "invert_elev_m": 24.714,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.0251,
+    "drain_capacity_proxy": 1.725,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82344826299916,
+     20.29881894181583
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-13",
+    "name": "Synthetic inlet 13",
+    "nfc_tagged": false,
+    "invert_elev_m": 30.716,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.0143,
+    "drain_capacity_proxy": 1.868,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82356034431615,
+     20.29312282475275
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-14",
+    "name": "Synthetic inlet 14",
+    "nfc_tagged": false,
+    "invert_elev_m": 26.967,
+    "upstream_contributing_nodes": 11,
+    "catchment_km2": 0.6593,
+    "drain_capacity_proxy": 6.965,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8249846631049,
+     20.299896191058014
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-15",
+    "name": "Synthetic inlet 15",
+    "nfc_tagged": false,
+    "invert_elev_m": 29.395,
+    "upstream_contributing_nodes": 2,
+    "catchment_km2": 0.0783,
+    "drain_capacity_proxy": 2.92,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81496877979839,
+     20.303990104964825
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-16",
+    "name": "Synthetic inlet 16",
+    "nfc_tagged": false,
+    "invert_elev_m": 41.13,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.0203,
+    "drain_capacity_proxy": 1.905,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82008068781481,
+     20.296641996553596
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-17",
+    "name": "Synthetic inlet 17",
+    "nfc_tagged": false,
+    "invert_elev_m": 32.303,
+    "upstream_contributing_nodes": 1,
+    "catchment_km2": 0.0615,
+    "drain_capacity_proxy": 2.387,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81438435052395,
+     20.296060868401206
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-18",
+    "name": "Synthetic inlet 18",
+    "nfc_tagged": false,
+    "invert_elev_m": 38.182,
+    "upstream_contributing_nodes": 2,
+    "catchment_km2": 0.1097,
+    "drain_capacity_proxy": 2.902,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81756151091562,
+     20.290279608367836
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-19",
+    "name": "Synthetic inlet 19",
+    "nfc_tagged": false,
+    "invert_elev_m": 31.83,
+    "upstream_contributing_nodes": 6,
+    "catchment_km2": 0.2482,
+    "drain_capacity_proxy": 4.547,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82055806427363,
+     20.293179978263936
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-20",
+    "name": "Synthetic inlet 20",
+    "nfc_tagged": false,
+    "invert_elev_m": 30.519,
+    "upstream_contributing_nodes": 10,
+    "catchment_km2": 0.413,
+    "drain_capacity_proxy": 6.694,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82017566218857,
+     20.295000785241953
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-21",
+    "name": "Synthetic inlet 21",
+    "nfc_tagged": false,
+    "invert_elev_m": 31.687,
+    "upstream_contributing_nodes": 2,
+    "catchment_km2": 0.0706,
+    "drain_capacity_proxy": 2.717,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82376612496817,
+     20.291699684953848
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-22",
+    "name": "Synthetic inlet 22",
+    "nfc_tagged": false,
+    "invert_elev_m": 26.244,
+    "upstream_contributing_nodes": 12,
+    "catchment_km2": 0.5446,
+    "drain_capacity_proxy": 7.321,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81272119668554,
+     20.293389695492394
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-23",
+    "name": "Synthetic inlet 23",
+    "nfc_tagged": false,
+    "invert_elev_m": 38.011,
+    "upstream_contributing_nodes": 3,
+    "catchment_km2": 0.1705,
+    "drain_capacity_proxy": 3.234,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.82774864443971,
+     20.293375640581008
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-24",
+    "name": "Synthetic inlet 24",
+    "nfc_tagged": false,
+    "invert_elev_m": 24.208,
+    "upstream_contributing_nodes": 1,
+    "catchment_km2": 0.0863,
+    "drain_capacity_proxy": 2.42,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.819213146689,
+     20.298642212176
+    ]
+   },
+   "properties": {
+    "feature_type": "drain_node",
+    "drain_id": "DR-25",
+    "name": "Synthetic inlet 25",
+    "nfc_tagged": false,
+    "invert_elev_m": 33.985,
+    "upstream_contributing_nodes": 0,
+    "catchment_km2": 0.032,
+    "drain_capacity_proxy": 2.185,
+    "provenance": "SYNTHETIC",
+    "area": "bhubaneswar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8245,
+      20.2961
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-01",
+    "to": "DR-05",
+    "length_m": 714.1,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8168,
+      20.2915
+     ],
+     [
+      85.81756151091562,
+      20.290279608367836
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-02",
+    "to": "DR-19",
+    "length_m": 156.6,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.826,
+      20.2982
+     ],
+     [
+      85.8245,
+      20.2961
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-03",
+    "to": "DR-01",
+    "length_m": 280.1,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8285,
+      20.2998
+     ],
+     [
+      85.83160409569797,
+      20.300068379853784
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-04",
+    "to": "DR-07",
+    "length_m": 325.4,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8266924218387,
+      20.290638620871498
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-06",
+    "to": "DR-05",
+    "length_m": 475.6,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83160409569797,
+      20.300068379853784
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-07",
+    "to": "DR-05",
+    "length_m": 790.0,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81309000629982,
+      20.29839624130161
+     ],
+     [
+      85.81438435052395,
+      20.296060868401206
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-08",
+    "to": "DR-18",
+    "length_m": 291.5,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.826191565702,
+      20.303030477093234
+     ],
+     [
+      85.8249846631049,
+      20.299896191058014
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-09",
+    "to": "DR-15",
+    "length_m": 368.8,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81383442011648,
+      20.290943173389184
+     ],
+     [
+      85.8168,
+      20.2915
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-10",
+    "to": "DR-02",
+    "length_m": 315.7,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.83160054359108,
+      20.291120064890965
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-11",
+    "to": "DR-05",
+    "length_m": 237.5,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82768161896682,
+      20.295795530921794
+     ],
+     [
+      85.82774864443971,
+      20.293375640581008
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-12",
+    "to": "DR-24",
+    "length_m": 267.7,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82344826299916,
+      20.29881894181583
+     ],
+     [
+      85.8249846631049,
+      20.299896191058014
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-13",
+    "to": "DR-15",
+    "length_m": 199.8,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82356034431615,
+      20.29312282475275
+     ],
+     [
+      85.82376612496817,
+      20.291699684953848
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-14",
+    "to": "DR-22",
+    "length_m": 158.8,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.8249846631049,
+      20.299896191058014
+     ],
+     [
+      85.826,
+      20.2982
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-15",
+    "to": "DR-03",
+    "length_m": 215.4,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81496877979839,
+      20.303990104964825
+     ],
+     [
+      85.81309000629982,
+      20.29839624130161
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-16",
+    "to": "DR-08",
+    "length_m": 648.9,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82008068781481,
+      20.296641996553596
+     ],
+     [
+      85.82017566218857,
+      20.295000785241953
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-17",
+    "to": "DR-21",
+    "length_m": 181.7,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81438435052395,
+      20.296060868401206
+     ],
+     [
+      85.81272119668554,
+      20.293389695492394
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-18",
+    "to": "DR-23",
+    "length_m": 342.6,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81756151091562,
+      20.290279608367836
+     ],
+     [
+      85.82055806427363,
+      20.293179978263936
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-19",
+    "to": "DR-20",
+    "length_m": 448.0,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82055806427363,
+      20.293179978263936
+     ],
+     [
+      85.82356034431615,
+      20.29312282475275
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-20",
+    "to": "DR-14",
+    "length_m": 313.5,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82017566218857,
+      20.295000785241953
+     ],
+     [
+      85.82055806427363,
+      20.293179978263936
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-21",
+    "to": "DR-20",
+    "length_m": 205.3,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82376612496817,
+      20.291699684953848
+     ],
+     [
+      85.8266924218387,
+      20.290638620871498
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-22",
+    "to": "DR-06",
+    "length_m": 327.3,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.81272119668554,
+      20.293389695492394
+     ],
+     [
+      85.81383442011648,
+      20.290943173389184
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-23",
+    "to": "DR-10",
+    "length_m": 294.4,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.82774864443971,
+      20.293375640581008
+     ],
+     [
+      85.8305,
+      20.293
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-24",
+    "to": "DR-05",
+    "length_m": 290.3,
+    "provenance": "SYNTHETIC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.819213146689,
+      20.298642212176
+     ],
+     [
+      85.82008068781481,
+      20.296641996553596
+     ]
+    ]
+   },
+   "properties": {
+    "feature_type": "conduit",
+    "from": "DR-25",
+    "to": "DR-17",
+    "length_m": 239.0,
+    "provenance": "SYNTHETIC"
+   }
+  }
+ ]
+}
